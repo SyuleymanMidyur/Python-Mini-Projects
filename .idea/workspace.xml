@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afa90feb-bea6-4582-bc4e-508446d68064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/qr_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="afa90feb-bea6-4582-bc4e-508446d68064" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +64,7 @@
       <workItem from="1742484048112" duration="2188000" />
       <workItem from="1742514694534" duration="932000" />
       <workItem from="1742528922071" duration="2713000" />
-      <workItem from="1742744320314" duration="2047000" />
+      <workItem from="1742744320314" duration="2335000" />
     </task>
     <servers />
   </component>
@@ -87,7 +84,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Mini_Projects$remove_image_bg.coverage" NAME="remove_image_bg Coverage Results" MODIFIED="1742530304820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_Mini_Projects$qr_code.coverage" NAME="qr_code Coverage Results" MODIFIED="1742746534118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Mini_Projects$qr_code.coverage" NAME="qr_code Coverage Results" MODIFIED="1742746584833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_Mini_Projects$password_generator.coverage" NAME="password_generator Coverage Results" MODIFIED="1742515576340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
